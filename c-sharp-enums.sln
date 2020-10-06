@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-enums", "c-sharp-enums\c-sharp-enums.csproj", "{D2F0ADA9-53E4-42D7-BE38-CE290220559F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F0ADA9-53E4-42D7-BE38-CE290220559F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D2F0ADA9-53E4-42D7-BE38-CE290220559F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D2F0ADA9-53E4-42D7-BE38-CE290220559F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D2F0ADA9-53E4-42D7-BE38-CE290220559F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
